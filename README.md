@@ -1,2 +1,2 @@
-# Angulr
+# Angular
 Angular Apps
